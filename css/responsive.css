@@ -1,0 +1,769 @@
+@media  screen and (max-width: 767px) {
+    header .header-top-right {
+        color: #fff;
+        padding: 5px 0;
+        font-size: 12px;
+    }
+    header .header-top-left ul li a {
+        color: #fff;
+        padding-left: 9px;
+        font-size: 12px;
+    }
+    header .header-top ul {
+        margin: 0;
+        padding: 0px 0;
+    }
+
+    header .header-middle .header-logo {
+        height: auto;
+    }
+
+    header .header-middle ul li {
+        display: inline-block;
+        padding-right: 10px;
+    }
+
+    header .header-middle ul li i {
+        font-size: 20px;
+    }
+
+    .header-middle ul li span {
+        font-size: 14px;
+        margin-bottom: 0px;
+        position: relative;
+        bottom: 7px;
+        left: 6px;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 600;
+    }
+
+    header .header-middle ul li span span.sub-head {
+        display: block;
+        font-size: 11px;
+        position: relative;
+        left: 26px;
+        top: -5px;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 600;
+    }
+
+    header .header-bottom ul li a.nav-link {
+        color: #fff;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 600;
+        display: inline-block;
+        font-size: 12px;
+    }
+
+    .carousel-caption h4 {
+        font-size: 18px;
+        font-weight: 600;
+        margin-bottom: 5px;
+    }
+
+    .carousel-caption h2 {
+        font-size: 22px;
+        font-weight: 600;
+        margin-bottom: 5px;
+    }
+
+    .carousel-caption p {
+        font-size: 10px;
+        font-weight: 500;
+        margin-top: 0;
+    }
+
+    .carousel-caption h2 {
+        font-size: 19px;
+        font-weight: 600;
+        margin-bottom: 5px;
+    }
+    .carousel-caption h4 {
+        font-size: 16px;
+        font-weight: 600;
+        margin-bottom: 5px;
+    }
+    .carousel-caption {
+        font-family: 'Montserrat', sans-serif;
+        height: 19vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    section.about-us h1 span.main-heading {
+        font-size: 15px;
+        font-family: 'Montserrat';
+        font-style: italic;
+        font-weight: bold;
+        color: #a68538;
+        display: block;
+    }
+    .about-us h1 span.sub-heading {
+        display: block;
+        margin-top: 4px;
+        font-family: 'Montserrat';
+        font-weight: 600;
+        font-size: 22px;
+    }
+    .about-us h1 span.sub-heading-2 {
+        display: block;
+        margin: 0;
+        font-family: 'Montserrat';
+        font-weight: 600;
+        font-size: 22px;
+        color: #a68538;
+    }
+
+    section.about-us h6 {
+        margin-top: 12px;
+        font-size: 15px;
+    }
+    section.about-us p {
+        font-size: 11px;
+        font-weight: 500;
+        margin: 9px 0;
+    }
+    .about-us .row.design-section p {
+        font-size: 15px;
+        color: #a68538;
+        font-weight: 500;
+    }
+
+    .about-us .design-section p.design-text {
+        color: #777;
+        font-size: 11px;
+    }
+    img.img-fluid.welcome-img {
+        border: 10px solid #fff;
+        margin-top: 10px;
+    }
+    
+
+    section.concept-section .title-tag h1 {
+        font-weight: 600;
+        font-size: 22px;
+    }
+    .concept-section .title-tag p {
+        font-size: 11px;
+        font-weight: 600;
+        margin: 10px 0;
+    }
+    section.concept-section ul li {
+        margin: 0 3px;
+        border: 2px solid #a58838;
+    }
+
+    section.concept-section ul li a {
+        color: #000;
+        font-weight: 600;
+        font-size: 10px;
+    }
+    section.concept-section ul li {
+        margin: 5px 3px;
+        border: 2px solid #a58838;
+    }
+
+    section.concept-section ul li a {
+        color: #000;
+        font-weight: 600;
+        font-size: 10px;
+        padding: 4px;
+    }
+
+    .project-section .title-tag h1 {
+        font-weight: 600;
+        font-size: 22px;
+    }
+
+    .project-section .title-tag p {
+        font-weight: 500;
+        font-size: 11px;
+    }
+    .project-section .card-heading.text-center h4 {
+        font-weight: 500;
+        padding: 7px 113px;
+        margin-bottom: 0;
+        background: #a58838;
+        display: inline-block;
+        position: relative;
+        top: -17px;
+        font-size: 17px;
+    }
+
+    .project-section .card .card-text .card-detail {
+        color: #9a9a9a;
+        padding: 0 16px;
+        font-size: 12px;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 500;
+    }
+
+    .testimonial-section .title-tag h1 {
+        font-size: 22px;
+    }
+    .testimonial-section .title-tag p {
+        font-size: 11px;
+        font-weight: 600;
+    }
+
+    .testimonial-section p.card-text {
+        font-size: 11px;
+        margin: 1em 0;
+        color: #999;
+        font-weight: 500;
+        padding: 0 2em;
+        line-height: 2em;
+    }
+    .testimonial-section .card img.img-fluid.testimonial-img {
+        height: 90px;
+        width: 23%;
+        object-fit: contain;
+        margin: 0 auto;
+        display: inline-block;
+        border: 3px solid #ff6f5a;
+    }
+
+    .testimonial-section .card .img-card span {
+        display: inline-block;
+        margin: 10px 0;
+        float: right;
+    }
+
+    .testimonial-section .card .img-card span .span-name {
+        color: #ff705b;
+        font-weight: 600;
+        font-size: 17px;
+        margin: 0;
+    }
+    
+
+    .testimonial-section .card .img-card span .sub-profession {
+    font-style: italic;
+    font-weight: 600;
+    color: #71839b;
+    margin: 0;
+    font-size: 12px;
+    }
+
+    .quote-section {
+        height: auto;
+        background: url(../images/index.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .quote-text h3 {
+        margin: 16px 0;
+        font-size: 18px;
+    }
+    button.quote-button a {
+        text-decoration: none;
+        color: #fff;
+        font-weight: 500;
+        display: inline-block;
+        font-size: 14px;
+        border: 3px solid #a58838;
+        padding: 3px 8px;
+        margin: 12px 0;
+    }
+
+    .contact-section .title-tag h1 {
+        font-weight: 600;
+        font-size: 22px;
+    }
+    .contact-section .form-group textarea.form-control {
+        border: 1px solid #000;
+        font-size: 12px;
+    }
+    .contact-section .form-group input.form-control {
+        border: 1px solid #000;
+        font-size: 12px;
+        height: 3em;
+        margin: 10px 0;
+    }
+    .contact-section button.contact-button a {
+        background: #000;
+        color: #fff;
+        text-decoration: none;
+        padding: 5px 13px;
+        font-size: 15px;
+        border-radius: 5px;
+        display: inline-block;
+        margin-top: 12px;
+    }
+
+    .contact-section .contact-detail h4 {
+        margin-bottom: 1em;
+        color: #656565;
+        text-align: center;
+        font-family: 'Montserrat', sans-serif;
+        margin-top: 12px;
+    }
+    .contact-section .contact-detail ul li i {
+        font-size: 16px;
+        padding-right: 10px;
+        border: 1px dotted #000;
+        padding: 7px;
+        border-radius: 100%;
+    }
+
+    .contact-section .contact-detail ul li span {
+        font-weight: bold;
+        padding-left: 1em;
+        font-size: 12px;
+    }
+
+    footer .footer-section .logo-footer img {
+        height: 40px;
+    }
+    footer .footer-section .logo-footer p {
+        color: #a8a6a9;
+        font-size: 12px;
+        margin: 16px 0;
+    }
+
+    footer .footer-section .logo-footer span a i {
+        color: #000;
+        background: #fff;
+        padding: 4px;
+        border-radius: 5px;
+        font-size: 11px;
+        margin-bottom: 16px;
+    }
+
+    footer h4.footer-list-heading {
+        color: #fff;
+        font-size: 18px;
+    }
+
+    footer .footer-section .footer-list ul li a {
+        color: #a6a5ab;
+        font-size: 12px;
+        font-weight: 600;
+        text-decoration: none;
+    }
+
+    footer .footer-section .contact-list ul li a {
+        color: #a6a5ab;
+        font-size: 12px;
+        font-weight: 600;
+        text-decoration: none;
+    }
+
+    footer .footer-section .contact-list ul li a i {
+        font-size: 16px;
+        padding-right: 10px;
+        /* font-weight: 500; */
+    }
+    p.footer-bottom-text.text-center {
+        color: #a6a5ab;
+        font-weight: 500;
+        margin: 10px 0;
+        padding: 0;
+        font-size: 11px;
+    }
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and  (min-width: 768px) and (max-width: 992px) {
+    
+header .header-top-right {
+    color: #fff;
+    padding: 5px 0;
+    font-size: 13px;
+}
+
+header .header-top-left ul li a {
+    color: #fff;
+    padding-left: 10px;
+    font-size: 13px;
+}
+
+header .header-top ul {
+    margin: 0;
+    padding: 0;
+}
+
+header .header-middle .header-logo {
+    height: 50px;
+}
+
+header .header-middle ul li {
+    display: inline-block;
+    padding-right: 12px;
+}
+
+.header-middle ul li span {
+    font-size: 14px;
+    margin-bottom: 0px;
+    position: relative;
+    bottom: 15px;
+    left: 6px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+}
+header .header-middle ul li i {
+    font-size: 22px;
+}
+
+header .header-middle ul li span span.sub-head {
+    display: block;
+    font-size: 11px;
+    position: relative;
+    left: 19px;
+    top: -5px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+}
+
+.header-middle ul li span {
+    font-size: 14px;
+    margin-bottom: 0px;
+    position: relative;
+    bottom: 9px;
+    left: 2px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+}
+header .header-middle ul li span span.sub-head {
+    display: block;
+    font-size: 11px;
+    position: relative;
+    left: 25px;
+    top: -5px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+}
+
+header .header-middle ul li {
+    display: inline-block;
+    padding-right: 12px;
+}
+body > header > div.header-middle > div > div > div.col-lg-7.col-md-7.col-7 > ul > li:nth-child(2) {
+    padding-right: 20px;
+}
+
+.carousel-caption {
+    font-family: 'Montserrat', sans-serif;
+    height: 290px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+img.img-fluid.welcome-img {
+    border: 13px solid #fff;
+}
+section.concept-section .title-tag h1 {
+    font-weight: 600;
+    font-size: 25px;
+}
+.concept-section .title-tag p {
+    font-size: 13px;
+    font-weight: 600;
+    margin: 10px 0;
+}
+section.concept-section ul li a {
+    color: #000;
+    font-weight: 600;
+    font-size: 14px;
+}
+.project-section .title-tag h1 {
+    font-weight: 600;
+    font-size: 25px;
+}
+.project-section .title-tag p {
+    font-weight: 500;
+    font-size: 13px;
+}
+.project-section .card-heading.text-center h4 {
+    font-weight: 500;
+    padding: 7px 64px;
+    margin-bottom: 0;
+    background: #a58838;
+    display: inline-block;
+    position: relative;
+    top: -17px;
+    font-size: 18px;
+}
+
+.project-section .card .card-text .card-detail {
+    color: #9a9a9a;
+    padding: 0 10px;
+    font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+.testimonial-section .title-tag h1 {
+    font-size: 25px;
+}
+
+.testimonial-section .title-tag p {
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.testimonial-section p.card-text {
+    font-size: 13px;
+    margin: 1em 0;
+    color: #999;
+    font-weight: 500;
+    padding: 0 2em;
+    line-height: 2em;
+}
+
+.testimonial-section .card img.img-fluid.testimonial-img {
+    height: 100px;
+    width: 38%;
+    object-fit: contain;
+    margin: 0 auto;
+    display: inline-block;
+    border: 3px solid #ff6f5a;
+}
+
+.testimonial-section .card .img-card span .span-name {
+    color: #ff705b;
+    font-weight: 600;
+    font-size: 17px;
+    margin: 0;
+}
+
+
+.testimonial-section .card .img-card span .sub-profession {
+    font-style: italic;
+    font-weight: 600;
+    color: #71839b;
+    margin: 0;
+    font-size: 15px;
+}
+
+.quote-text h3 {
+    margin: 16px 0;
+    font-size: 20px;
+}
+
+button.quote-button a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 500;
+    display: inline-block;
+    font-size: 17px;
+    border: 3px solid #a58838;
+    padding: 3px 8px;
+    margin: 12px 0;
+}
+.quote-section {
+    height: auto;
+    background: url(../images/index.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.contact-section .title-tag h1 {
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.contact-section .contact-detail ul li i {
+    font-size: 17px;
+    padding-right: 0px;
+    border: 1px dotted #000;
+    padding: 6px;
+    border-radius: 100%;
+}
+
+
+.contact-section .contact-detail ul li span {
+    font-weight: bold;
+    padding-left: 10px;
+    font-size: 13px;
+}
+
+.contact-section button.contact-button a {
+    background: #000;
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 13px;
+    font-size: 16px;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 12px;
+}
+
+
+
+
+footer .footer-section .logo-footer img {
+    height: 35px;
+}
+
+
+footer .footer-section .logo-footer p {
+    color: #a8a6a9;
+    font-size: 12px;
+    margin: 13px 0;
+}
+
+footer .footer-section .logo-footer span a i {
+    color: #000;
+    background: #fff;
+    padding: 4px;
+    border-radius: 5px;
+    font-size: 12px;
+}
+footer h4.footer-list-heading {
+    color: #fff;
+    font-size: 18px;
+}
+footer .footer-section .footer-list ul li a {
+    color: #a6a5ab;
+    font-size: 12px;
+    font-weight: 600;
+    text-decoration: none;
+}
+footer .footer-section .contact-list ul li a i {
+    font-size: 16px;
+    padding-right: 8px;
+    /* font-weight: 500; */
+}
+.contact-list span {
+    font-size: 11px;
+}
+iframe {
+    width: 100%;
+}
+
+p.footer-bottom-text.text-center {
+    color: #a6a5ab;
+    font-weight: 500;
+    margin: 10px 0;
+    padding: 0;
+    font-size: 13px;
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width:993px) and (max-width:1099px) {
+    
+    .project-section .card-heading.text-center h4 {
+        font-weight: 500;
+        padding: 7px 90px;
+        margin-bottom: 10px;
+        background: #a58838;
+        display: inline-block;
+        position: relative;
+        top: -17px;
+        font-size: 22px;
+    }
+
+    .project-section .title-tag h1 {
+        font-weight: 600;
+        font-size: 30px;
+    }
+    .project-section .title-tag p {
+        font-weight: 500;
+        font-size: 14px;
+    }
+    .title-tag h1 {
+        font-size: 30px;
+    }
+    .testimonial-section .card img.img-fluid.testimonial-img {
+        height: 100px;
+        width: 28%;
+        object-fit: contain;
+        margin: 0 auto;
+        display: inline-block;
+        border: 3px solid #ff6f5a;
+    }
+    .testimonial-section .card .img-card span .span-name {
+        color: #ff705b;
+        font-weight: 600;
+        font-size: 20px;
+        margin: 0;
+    }
+
+    .quote-section {
+        height: auto;
+        background: url(../images/index.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    footer .footer-section .logo-footer img {
+        height: 45px;
+    }
+
+    footer h4.footer-list-heading {
+        color: #fff;
+        font-size: 20px;
+    }
+
+    iframe {
+        width: 100%;
+    }
+}
